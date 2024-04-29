@@ -1,3 +1,4 @@
+#Import selected scrapping tool
 from playwright.sync_api import sync_playwright
 import re
 
