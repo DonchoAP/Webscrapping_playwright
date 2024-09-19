@@ -42,9 +42,9 @@ This script is licensed under the MIT License. You are free to modify and distri
 
 Author:
 
-[Doncho Panayotov]
+Doncho Panayotov
 
-[doncho.ap@gmail.com]
+doncho.ap@gmail.com
 
 
 Acknowledgments:
