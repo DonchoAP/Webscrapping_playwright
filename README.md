@@ -42,11 +42,10 @@ This script is licensed under the MIT License. You are free to modify and distri
 
 Author:
 
-[Your Name]
+[Doncho Panayotov]
 
-[Your Email]
+[doncho.ap@gmail.com]
 
-[Your Website (if applicable)]
 
 Acknowledgments:
 
