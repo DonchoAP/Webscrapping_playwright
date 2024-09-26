@@ -22,8 +22,6 @@ Run the script. It will launch a browser, navigate to the specified URL, extract
 The extracted words will be saved in the same directory as the script.
 Example:
 
-python
-Copy code
 # URL of the webpage you want to scrape
 url = 'https://example.com'
 
@@ -41,14 +39,11 @@ License:
 This script is licensed under the MIT License. You are free to modify and distribute it as you see fit.
 
 Author:
-
 Doncho Panayotov
-
 doncho.ap@gmail.com
 
 
 Acknowledgments:
-
 Special thanks to the developers of Playwright for providing a powerful tool for web automation.
 Thanks to the Python community for creating and maintaining the Regular Expressions library.
 [Insert any other acknowledgments or credits here]
